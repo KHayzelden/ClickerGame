@@ -1,0 +1,10 @@
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe.config
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\bin\Debug\ClickerGame.exe
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\bin\Debug\ClickerGame.pdb
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\bin\Debug\ClickerGame.xml
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Form1.resources
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Resources.resources
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\obj\Debug\ClickerGame.vbproj.GenerateResource.Cache
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\obj\Debug\ClickerGame.exe
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\obj\Debug\ClickerGame.xml
+H:\Introduction to Programming and Games Design Project\Clicker Game\ClickerGame\ClickerGame\obj\Debug\ClickerGame.pdb
